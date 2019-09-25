@@ -1,0 +1,38 @@
+/*
+Name : Aman Jasani
+Student ID : 991516032
+SYST10199 - Web Programming 
+*/
+#body{
+    background-color: black;
+    background-image: url('img/new1.jpg');
+    background-repeat: no-repeat;
+    background-position-x: 56%;
+}
+
+#body2{
+    background-color: black;
+    background-image: url('img/new3.jpg');
+    background-repeat: no-repeat;
+    background-position-x: 56%;
+    background-position-y: 36%;
+}
+#main{
+    color: red;  
+    padding-left: 615px;
+    padding-top: 258px;
+}
+
+#in{
+    margin-left: 22px;
+}
+
+#in1{
+    margin-left: 33px;
+}
+
+#h1{
+    padding-right: 20px;
+    font-size: 35px;
+    color: red;
+}
